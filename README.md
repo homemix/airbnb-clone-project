@@ -30,5 +30,14 @@ This project provides hands-on experience with building a robust booking system.
 - **Deployment:** CI/CD Pipelines
 
 ---
+## 👥 Team Roles
 
+- **Project Manager:** Oversees project planning, sets deadlines, and coordinates the team.
+- **Backend Developers:** Build APIs, manage database models, implement business logic, and ensure application security.
+- **Database Administrators:** Design, optimize, and maintain the database schemas.
+- **DevOps Engineers:** Set up CI/CD pipelines and manage deployment infrastructure.
+- **Documentation Specialist:** Create and maintain detailed technical documentation.
+- **QA/Testers:** Ensure application quality through systematic testing and reporting of bugs.
+
+---
 
