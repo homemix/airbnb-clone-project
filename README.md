@@ -21,7 +21,7 @@ This project provides hands-on experience with building a robust booking system.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Stack
 
 - **Backend:** Django
 - **Database:** MySQL
