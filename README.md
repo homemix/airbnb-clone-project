@@ -20,7 +20,7 @@ This project provides hands-on experience with building a robust booking system.
 -  Develop expertise in integrating technologies like **Django**, **MySQL**, and **GraphQL**.
 
 
-## 🛠 Technology Stack
+## Technology Stack
 
 - **Backend:** Django 
 - **Database:** MySQL
